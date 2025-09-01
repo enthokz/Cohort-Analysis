@@ -1,0 +1,931 @@
+Customer ID,Date,No,Name,Weight (kg),Service,Total Price
+en8230n,1 Jan 2024,1352,entin,"3,00",Complete Service Express,24000
+en8230n,1 Jan 2024,1353,entin,"6,3",Complete Service,38000
+li8706a,2 Jan 2024,1354,lisa,"8,52",Complete Service Express,68000
+ac7510l,2 Jan 2024,1355,acil,"5,26",Complete Service,31500
+si1500a,3 Jan 2024,1356,sisca,"5,25",Complete Service,31500
+ro6002d,3 Jan 2024,1357,ronald,"11,16",Complete Service,67000
+al3287f,4 Jan 2024,1358,alif,"8,34",Complete Service,50000
+su2998e,5 Jan 2024,1359,sule,"10,68",Complete Service Express,85500
+pa3463g,5 Jan 2024,1360,park ji sung,"4,7",Complete Service,28000
+ac7510l,5 Jan 2024,1361,acil,"4,55",Complete Service,27000
+al1438x,6 Jan 2024,1362,alex,"4,6",Complete Service,27500
+pr1922s,6 Jan 2024,1363,pras,"5,57",Complete Service,33500
+ra4342a,6 Jan 2024,1374,rama,"19,62",Complete Service,117500
+ic5626a,7 Jan 2024,1364,ica,"3,84",Complete Service,23000
+en8230n,7 Jan 2024,1365,entin,"10,64",Complete Service,64000
+du2602n,9 Jan 2024,1366,dundun,"9,66",Complete Service,58000
+ro6002d,9 Jan 2024,1367,ronald,"11,91",Complete Service,71500
+wi6385a,10 Jan 2024,1368,wita,,Complete Service,25000
+ba2680s,10 Jan 2024,1369,bagas,"4,16",Complete Service Express,33000
+su2998e,12 Jan 2024,1370,sule,"11,03",Complete Service Express,88000
+pa3463g,12 Jan 2024,1371,park ji sung,"3,95",Complete Service,23500
+ri5903a,13 Jan 2024,1372,rina,"12,51",Complete Service,75000
+ra4342a,13 Jan 2024,1373,rama,"22,01",Complete Service,132000
+pr1922s,14 Jan 2024,1375,pras,"6,00",Complete Service,36000
+ve9509a,14 Jan 2024,1376,vera,,Complete Service,25000
+du2602n,14 Jan 2024,1377,dundun,"6,7",Complete Service,40000
+al1438x,14 Jan 2024,1378,alex,"3,22",Complete Service,19000
+en8230n,14 Jan 2024,1379,entin,"10,9",Complete Service,65000
+ir6508n,15 Jan 2024,1380,irfan,"8,5",Complete Service Express,68000
+is7994l,15 Jan 2024,1381,ismail,"3,00",Complete Service,18000
+ib6182i,15 Jan 2024,1382,ibu ari,,Complete Service,35000
+#N/A,15 Jan 2024,1383,,,,0
+ro6002d,15 Jan 2024,1384,ronald,"11,95",Complete Service,71500
+ch8619i,16 Jan 2024,1385,chrisanti,,Complete Service,45000
+ra4342a,17 Jan 2024,1386,rama,"6,16",Complete Service,37000
+du2602n,19 Jan 2024,1387,dundun,"8,67",Complete Service,69000
+su2998e,19 Jan 2024,1388,sule,"13,5",Complete Service Express,108500
+pa3463g,19 Jan 2024,1389,park ji sung,"3,5",Complete Service,21000
+ra9106a,20 Jan 2024,1390,raisya,"4,83",Complete Service Express,38000
+wi6385a,21 Jan 2024,1391,wita,,Complete Service,35000
+ra4342a,21 Jan 2024,1392,rama,"18,05",Complete Service,90000
+ba2680s,21 Jan 2024,1393,bagas,"4,42",Complete Service Express,35000
+en8230n,21 Jan 2024,1394,entin,"13,02",Complete Service,78000
+ro6002d,22 Jan 2024,1395,ronald,"12,12",Complete Service,73000
+du2602n,23 Jan 2024,1396,dundun,"3,8",Ironing Service,19000
+du2602n,23 Jan 2024,1397,dundun,"5,2",Complete Service,31500
+al1438x,24 Jan 2024,1398,alex,"3,92",Complete Service,23500
+ac7510l,24 Jan 2024,1399,acil,"7,7",Complete Service,56000
+lu2529i,25 Jan 2024,1400,luwi,"5,6",Complete Service,34000
+ga4992h,26 Jan 2024,1401,galuh,"5,93",Complete Service,47500
+su2998e,26 Jan 2024,1402,sule,"14,21",Complete Service Express,114000
+pa3463g,26 Jan 2024,1403,park ji sung,"4,12",Complete Service,25000
+ra4342a,26 Jan 2024,1404,rama,"16,62",Complete Service,83000
+ra6793a,27 Jan 2024,1405,raisa,"5,61",Complete Service Express,45000
+pr1922s,27 Jan 2024,1406,pras,"5,66",Complete Service,34000
+du2602n,27 Jan 2024,1407,dundun,"5,00",Complete Service,31500
+ri5903a,27 Jan 2024,1408,rina,"9,5",Complete Service,57000
+en8230n,27 Jan 2024,1409,entin,"8,88",Complete Service,53000
+ib6182i,28 Jan 2024,1410,ibu ari,,Complete Service,20000
+is7994l,29 Jan 2024,1411,ismail,"3,00",Complete Service,18000
+il9754m,29 Jan 2024,1412,ilham,"4,07",Complete Service Express,33000
+li1111a,29 Jan 2024,1413,lia,"6,3",Complete Service Express,50500
+si9273a,29 Jan 2024,1414,sifa,"7,8",Complete Service,47000
+ro6002d,29 Jan 2024,1415,ronald,"7,08",Complete Service,42500
+su2998e,30 Jan 2024,1416,sule,"6,96",Complete Service,41500
+ba2680s,1 Feb 2024,1417,bagas,"5,13",Complete Service Express,41000
+du2602n,2 Feb 2024,1418,dundun,"8,63",Complete Service,52000
+en8230n,2 Feb 2024,1419,entin,"8,86",Complete Service,53000
+su2998e,2 Feb 2024,1420,sule,"7,73",Complete Service Express,63000
+ra6793a,2 Feb 2024,1421,raisa,"4,62",Complete Service,27500
+ra4342a,2 Feb 2024,1422,rama,"24,74",Complete Service,148500
+pa3463g,2 Feb 2024,1423,park ji sung,"3,82",Complete Service,23000
+sh8898a,3 Feb 2024,1424,shifa,"6,19",Complete Service,37000
+ro6002d,4 Feb 2024,1425,ronald,"9,4",Complete Service,57000
+al1438x,4 Feb 2024,1426,alex,"3,5",Complete Service,21000
+di9877n,4 Feb 2024,1427,dian,,Complete Service,25000
+ri5903a,4 Feb 2024,1428,rina,"11,34",Complete Service,68000
+wi6385a,5 Feb 2024,1429,wita,,Complete Service,50000
+en8230n,6 Feb 2024,1430,entin,"7,53",Complete Service Express,60000
+ga4992h,7 Feb 2024,1431,galuh,"5,77",Complete Service Express,46000
+ro6002d,7 Feb 2024,1432,ronald,"6,83",Complete Service,41500
+pa3463g,7 Feb 2024,1433,park ji sung,"3,00",Complete Service,33000
+pr1922s,7 Feb 2024,1434,pras,"6,01",Complete Service,41000
+ra4342a,7 Feb 2024,1435,rama,"12,88",Complete Service,47000
+ch8619i,7 Feb 2024,1436,chrisanti,,Complete Service,45000
+ra6793a,7 Feb 2024,1437,raisa,"4,63",Complete Service,27500
+su2998e,7 Feb 2024,1438,sule,"13,09",Complete Service Express,104000
+du2602n,7 Feb 2024,1439,dundun,"8,31",Complete Service,49500
+da2367a,10 Feb 2024,1440,dahlia,"6,64",Complete Service Express,53000
+ba2680s,11 Feb 2024,1441,bagas,"5,26",Complete Service Express,42000
+ra6793a,11 Feb 2024,1442,raisa,"3,62",Complete Service,23500
+ra4342a,11 Feb 2024,1443,rama,"6,7",Complete Service,40500
+is7994l,11 Feb 2024,1444,ismail,"3,68",Complete Service,22000
+ro6002d,11 Feb 2024,1445,ronald,"10,47",Complete Service,63000
+pa3463g,11 Feb 2024,1446,park ji sung,"7,33",Complete Service,59000
+ra4342a,11 Feb 2024,1447,rama,"8,48",Complete Service,51000
+en8230n,13 Feb 2024,1448,entin,"11,32",Complete Service Express,90000
+ci9552a,14 Feb 2024,1449,citra,"7,36",Complete Service,44000
+ul5219a,14 Feb 2024,1450,ulva,"11,37",Complete Service,70000
+ya7985i,15 Feb 2024,1451,yadi,"3,00",Complete Service Express,24000
+di9877n,16 Feb 2024,1452,dian,,Complete Service,25000
+en8230n,16 Feb 2024,1453,entin,"8,32",Complete Service,50000
+al1438x,16 Feb 2024,1454,alex,"3,81",Complete Service,23000
+su2998e,16 Feb 2024,1455,sule,"10,26",Complete Service Express,82000
+pa3463g,16 Feb 2024,1456,park ji sung,"6,71",Complete Service,40000
+ra6793a,16 Feb 2024,1457,raisa,"4,28",Complete Service,25500
+al3479h,16 Feb 2024,1458,altikah,"3,18",Complete Service,19500
+ri5903a,17 Feb 2024,1459,rina,"13,00",Complete Service,78500
+ra4342a,17 Feb 2024,1460,rama,"8,06",Complete Service,40000
+ra4342a,17 Feb 2024,1461,rama,"7,16",Complete Service,36000
+ra4342a,17 Feb 2024,1462,rama,"7,83",Complete Service,39000
+ro6002d,17 Feb 2024,1463,ronald,"12,5",Complete Service,76000
+pr1922s,17 Feb 2024,1464,pras,"7,32",Complete Service,44000
+pu3422t,17 Feb 2024,1465,puput,"3,00",Complete Service,18000
+du2602n,28 Feb 2024,1466,dundun,"8,13",Complete Service,49000
+en8230n,21 Feb 2024,1467,entin,"10,07",Complete Service,60000
+ra4342a,22 Feb 2024,1468,rama,"6,72",Complete Service,34000
+ib6182i,23 Feb 2024,1469,ibu ari,,Complete Service,20000
+ga4992h,23 Feb 2024,1470,galuh,"7,16",Complete Service Express,57000
+su2998e,23 Feb 2024,1471,sule,"11,08",Complete Service Express,88000
+ba2680s,23 Feb 2024,1472,bagas,"5,01",Complete Service Express,40500
+ra6793a,23 Feb 2024,1473,raisa,"6,11",Complete Service,36500
+pa3463g,23 Feb 2024,1474,park ji sung,"4,76",Complete Service,28500
+ra4342a,23 Feb 2024,1475,rama,"19,32",Complete Service,96500
+du2602n,24 Feb 2024,1476,dundun,"5,78",Complete Service,34500
+li8706a,25 Feb 2024,1477,lisa,"9,8",Complete Service Express,78000
+is7994l,26 Feb 2024,1478,ismail,"3,00",Complete Service,18000
+ro6002d,26 Feb 2024,1479,ronald,"11,86",Complete Service,71000
+al1438x,27 Feb 2024,1480,alex,"3,91",Complete Service,23000
+en8230n,27 Feb 2024,1481,entin,"9,94",Complete Service,60000
+ib6182i,27 Feb 2024,1482,ibu ari,"3,5",Complete Service,21000
+ra4342a,27 Feb 2024,1483,rama,"10,82",Complete Service,55000
+re5498a,27 Feb 2024,1484,resya,"3,00",Complete Service,18000
+du2602n,1 Mar 2024,1485,dundun,"8,61",Complete Service,51500
+ip5184n,1 Mar 2024,1486,ipan,"3,57",Complete Service Express,28000
+ro6002d,1 Mar 2024,1487,ronald,"7,05",Complete Service,42000
+ra4342a,1 Mar 2024,1488,rama,"7,76",Complete Service,46500
+su2998e,1 Mar 2024,1489,sule,"11,03",Complete Service Express,88000
+ra6793a,1 Mar 2024,1490,raisa,"8,8",Complete Service,53000
+lu3938i,1 Mar 2024,1491,lutfi,"3,00",Complete Service Express,24000
+pa3463g,1 Mar 2024,1492,park ji sung,"10,42",Complete Service,62500
+ga4992h,2 Mar 2024,1493,galuh,"5,32",Complete Service Express,42500
+ra4342a,3 Mar 2024,1494,rama,"14,93",Complete Service,89000
+pr1922s,3 Mar 2024,1495,pras,"4,57",Complete Service,27000
+ro6002d,4 Mar 2024,1496,ronald,"7,83",Complete Service,47000
+en8230n,5 Mar 2024,1497,entin,"11,18",Complete Service,67000
+du2602n,6 Mar 2024,1498,dundun,"6,06",Complete Service,36000
+gi8295a,6 Mar 2024,1499,gita,"3,6",Complete Service,21500
+si1500a,7 Mar 2024,1500,sisca,"7,1",Complete Service,42500
+ba2680s,7 Mar 2024,1501,bagas,"6,04",Complete Service Express,48000
+al1438x,8 Mar 2024,1502,alex,"4,18",Complete Service,25000
+su2998e,8 Mar 2024,1503,sule,"13,2",Complete Service Express,105000
+ro6002d,8 Mar 2024,1504,ronald,"9,92",Complete Service,59500
+pa3463g,8 Mar 2024,1505,park ji sung,"6,96",Complete Service,41500
+ra6793a,8 Mar 2024,1506,raisa,"5,18",Complete Service,31000
+ya3244i,9 Mar 2024,1507,yanti,"4,21",Complete Service Express,33500
+ra4342a,9 Mar 2024,1508,rama,"9,07",Complete Service,54000
+is7994l,9 Mar 2024,1509,ismail,"3,17",Complete Service,19000
+di9877n,11 Mar 2024,1510,dian,"3,65",Ironing Service Express,25000
+pa3463g,11 Mar 2024,1511,park ji sung,"6,01",Complete Service,36000
+li1111a,11 Mar 2024,1512,lia,"14,42",Complete Service Express,115000
+ch8619i,12 Mar 2024,1513,chrisanti,,Complete Service,25000
+il9754m,12 Mar 2024,1514,ilham,"4,81",Ironing Service,24000
+ra4342a,12 Mar 2024,1515,rama,"17,4",Complete Service,104000
+du2602n,13 Mar 2024,1516,dundun,"7,8",Complete Service,47000
+en8230n,13 Mar 2024,1517,entin,"14,74",Complete Service,88000
+ri5903a,14 Mar 2024,1518,rina,"12,05",Complete Service,72000
+su2998e,15 Mar 2024,1519,sule,"7,9",Complete Service Express,64000
+pa3463g,15 Mar 2024,1520,park ji sung,"11,63",Complete Service,70000
+pu3422t,15 Mar 2024,1521,puput,"3,12",Complete Service,18500
+ra6793a,15 Mar 2024,1522,raisa,"5,5",Complete Service Express,44000
+pr1922s,15 Mar 2024,1523,pras,"8,78",Complete Service,52500
+ra4342a,15 Mar 2024,1524,rama,"4,79",Complete Service,29000
+ro6002d,17 Mar 2024,1525,ronald,"13,37",Complete Service,80000
+al3287f,18 Mar 2024,1526,alif,"6,9",Complete Service,41000
+ba2680s,19 Mar 2024,1527,bagas,"5,21",Complete Service Express,41000
+du2602n,28 Mar 2024,1528,dundun,"6,8",Complete Service,40000
+mu7082i,28 Mar 2024,1529,muti,"21,81",Complete Service,131000
+ro6002d,28 Mar 2024,1530,ronald,"6,44",Complete Service,38500
+al1438x,21 Mar 2024,1531,alex,"7,2",Complete Service,19000
+en8230n,21 Mar 2024,1532,entin,"10,1",Complete Service,60500
+su2998e,22 Mar 2024,1533,sule,"13,03",Complete Service Express,104000
+pa3463g,22 Mar 2024,1534,park ji sung,"4,6",Complete Service,27500
+di9877n,23 Mar 2024,1535,dian,"4,67",Complete Service Express,32500
+ra6793a,23 Mar 2024,1536,raisa,"6,09",Complete Service Express,48500
+ra4342a,23 Mar 2024,1537,rama,"24,78",Complete Service,124000
+ro6002d,24 Mar 2024,1538,ronald,"10,22",Complete Service,62000
+li1111a,24 Mar 2024,1539,lia,"6,05",Complete Service Express,48000
+du2602n,26 Mar 2024,1540,dundun,"8,24",Complete Service,49000
+ac7510l,26 Mar 2024,1541,acil,"7,24",Complete Service,43500
+en8230n,27 Mar 2024,1542,entin,"10,22",Complete Service,61000
+la8270a,28 Mar 2024,1543,layla,"3,00",Complete Service,63000
+su2998e,28 Mar 2024,1544,sule,"8,23",Complete Service Express,65000
+ro6002d,28 Mar 2024,1545,ronald,"8,49",Complete Service,51000
+ch8619i,29 Mar 2024,1546,chrisanti,,Complete Service,25000
+di9877n,29 Mar 2024,1547,dian,"5,6",Complete Service Express,45000
+lu5341u,29 Mar 2024,1548,lulu,"8,9",Complete Service Express,71000
+pr1922s,29 Mar 2024,1549,pras,"6,08",Complete Service,36000
+ra4342a,29 Mar 2024,1550,rama,"23,56",Complete Service,118000
+pa3463g,30 Mar 2024,1551,park ji sung,"4,04",Complete Service,24000
+is7994l,31 Mar 2024,1552,ismail,"3,00",Complete Service,18000
+ba2680s,31 Mar 2024,1553,bagas,"5,9",Complete Service Express,47500
+ri5903a,31 Mar 2024,1554,rina,"11,35",Complete Service,68000
+al1438x,1 Apr 2024,1555,alex,"3,71",Complete Service,22000
+pu3422t,1 Apr 2024,1556,puput,,Complete Service,15000
+di9877n,2 Apr 2024,1557,dian,"7,4",Complete Service Express,59000
+ro6002d,2 Apr 2024,1558,ronald,"8,8",Complete Service,53000
+du2602n,3 Apr 2024,1559,dundun,"8,04",Complete Service,48000
+ib6182i,3 Apr 2024,1560,ibu ari,"3,3",Complete Service,20000
+ra4342a,3 Apr 2024,1561,rama,"22,72",Complete Service,136000
+pr1922s,4 Apr 2024,1562,pras,"3,4",Complete Service,20000
+en8230n,4 Apr 2024,1563,entin,"11,22",Complete Service,67500
+li1111a,5 Apr 2024,1564,lia,"8,77",Complete Service Express,70000
+su2998e,5 Apr 2024,1565,sule,"12,9",Complete Service Express,103000
+ro6002d,6 Apr 2024,1566,ronald,"7,55",Complete Service,45000
+pa3463g,6 Apr 2024,1567,park ji sung,"9,27",Complete Service,55500
+pa3463g,14 Apr 2024,1568,park ji sung,"3,77",Complete Service,22500
+en8230n,14 Apr 2024,1569,entin,"15,79",Complete Service Express,126000
+ba2680s,14 Apr 2024,1570,bagas,"5,73",Complete Service,34500
+la8270a,15 Apr 2024,1571,layla,"3,00",Complete Service,101000
+pr1922s,15 Apr 2024,1572,pras,"5,86",Complete Service,35000
+gi8295a,15 Apr 2024,1573,gita,"4,22",Complete Service,25000
+ra4342a,15 Apr 2024,1574,rama,"37,61",Complete Service,215000
+ri5903a,17 Apr 2024,1575,rina,"12,81",Complete Service,77000
+fa8532h,17 Apr 2024,1576,fatimah,"30,95",Ironing Service,155000
+ra6793a,17 Apr 2024,1577,raisa,"3,63",Complete Service,41000
+is7994l,18 Apr 2024,1578,ismail,"3,6",Complete Service,22000
+ro6002d,18 Apr 2024,1579,ronald,"15,39",Complete Service,107000
+mu7082i,18 Apr 2024,1580,muti,"11,88",Complete Service,71000
+mo8194c,18 Apr 2024,1581,monic,"4,6",Complete Service,28000
+su2998e,19 Apr 2024,1582,sule,"11,43",Complete Service Express,90000
+du2602n,19 Apr 2024,1583,dundun,"10,64",Complete Service,63500
+pa3463g,19 Apr 2024,1584,park ji sung,"3,42",Complete Service,20500
+en8230n,19 Apr 2024,1585,entin,"10,51",Complete Service,63000
+ra4342a,20 Apr 2024,1586,rama,"20,00",Complete Service,100000
+ch8619i,20 Apr 2024,1587,chrisanti,,Complete Service,20000
+pr1922s,20 Apr 2024,1588,pras,"3,39",Complete Service Express,27000
+ra6793a,21 Apr 2024,1589,raisa,"3,62",Complete Service,21500
+al1438x,22 Apr 2024,1590,alex,"3,07",Complete Service,19500
+la8270a,22 Apr 2024,1591,layla,"3,00",Complete Service,18000
+ro6002d,22 Apr 2024,1592,ronald,"9,2",Complete Service,56000
+ra4342a,22 Apr 2024,1593,rama,"7,6",Complete Service,38000
+pu3422t,22 Apr 2024,1594,puput,"3,00",Complete Service,18000
+ac7510l,23 Apr 2024,1595,acil,"5,92",Complete Service,35500
+du2602n,23 Apr 2024,1596,dundun,"5,98",Complete Service,36000
+si1500a,25 Apr 2024,1597,sisca,"3,00",Complete Service,18000
+la8270a,25 Apr 2024,1598,layla,"3,00",Complete Service,18000
+en8230n,25 Apr 2024,1599,entin,"11,4",Complete Service,68000
+ri5903a,26 Apr 2024,1600,rina,"10,5",Complete Service,63000
+ba2680s,26 Apr 2024,1601,bagas,"5,84",Complete Service Express,47000
+su2998e,26 Apr 2024,1602,sule,"11,00",Complete Service Express,91000
+li1111a,26 Apr 2024,1603,lia,"7,34",Complete Service Express,58500
+pa3463g,26 Apr 2024,1604,park ji sung,"4,28",Complete Service,26000
+ra6793a,26 Apr 2024,1605,raisa,"5,87",Complete Service,35000
+ra4342a,27 Apr 2024,1606,rama,"20,16",Complete Service,101000
+pa3463g,27 Apr 2024,1607,park ji sung,"4,37",Complete Service,26000
+is7994l,27 Apr 2024,1608,ismail,"3,65",Complete Service,22000
+li8706a,28 Apr 2024,1609,lisa,"4,04",Complete Service,24000
+ro6002d,28 Apr 2024,1610,ronald,"11,87",Complete Service,71000
+du2602n,30 Apr 2024,1611,dundun,"6,78",Complete Service,40500
+di9323a,30 Apr 2024,1612,dita,"3,4",Complete Service,20000
+ci9552a,1 May 2024,1613,citra,"8,00",Complete Service,48000
+ra4342a,1 May 2024,1614,rama,"14,1",Complete Service,85000
+en8230n,1 May 2024,1615,entin,"11,03",Complete Service,66000
+su2998e,3 May 2024,1616,sule,"12,91",Complete Service Express,103000
+pa3463g,3 May 2024,1617,park ji sung,"6,05",Complete Service,36000
+ro6002d,3 May 2024,1618,ronald,"7,99",Complete Service,48000
+al1438x,4 May 2024,1619,alex,"3,58",Complete Service,21500
+ra4342a,4 May 2024,1620,rama,"11,32",Complete Service,68000
+ve9509a,4 May 2024,1621,vera,,Complete Service,50000
+ac7510l,5 May 2024,1622,acil,"6,4",Complete Service,38500
+du2602n,6 May 2024,1623,dundun,"9,00",Complete Service,54000
+ba2680s,6 May 2024,1624,bagas,"5,32",Complete Service Express,42500
+ic5626a,7 May 2024,1625,ica,"10,6",Complete Service,63500
+ci9552a,7 May 2024,1626,citra,"5,55",Complete Service,33000
+an1869a,7 May 2024,1627,ana,"13,08",Complete Service,78500
+ro6002d,7 May 2024,1628,ronald,"9,87",Complete Service,59000
+en8230n,8 May 2024,1629,entin,"13,62",Complete Service,82000
+ka6393a,10 May 2024,1630,kalista,"5,06",Complete Service Express,40500
+li1111a,10 May 2024,1631,lia,"5,68",Complete Service Express,45000
+ga3682h,10 May 2024,1632,galih,"3,00",Complete Service,18000
+su2998e,10 May 2024,1633,sule,"11,8",Complete Service Express,94500
+pa3463g,10 May 2024,1634,park ji sung,"3,86",Complete Service,23000
+du2602n,10 May 2024,1635,dundun,"4,88",Complete Service,29000
+ra6793a,10 May 2024,1636,raisa,"3,37",Complete Service,20000
+pr1922s,11 May 2024,1637,pras,"4,73",Complete Service,28000
+ra4342a,11 May 2024,1638,rama,"4,69",Complete Service,28000
+pu3422t,11 May 2024,1639,puput,"3,1",Complete Service,18500
+ro6002d,11 May 2024,1640,ronald,"9,2",Complete Service,55000
+mu7082i,11 May 2024,1641,muti,"20,77",Complete Service,124500
+is7994l,12 May 2024,1642,ismail,"3,00",Complete Service,18000
+ri5903a,13 May 2024,1643,rina,"12,32",Complete Service,77500
+al1438x,14 May 2024,1644,alex,"3,8",Complete Service,23000
+si1500a,15 May 2024,1645,sisca,"6,4",Complete Service,38500
+ka6393a,15 May 2024,1646,kalista,"5,45",Complete Service,32500
+gi8295a,15 May 2024,1647,gita,"3,11",Complete Service,18500
+ro6002d,15 May 2024,1648,ronald,"7,99",Complete Service,48000
+ra4342a,15 May 2024,1649,rama,"18,07",Complete Service,108000
+en8230n,15 May 2024,1650,entin,"11,32",Complete Service,68000
+du2602n,16 May 2024,1651,dundun,"7,2",Complete Service,43500
+la8270a,16 May 2024,1652,layla,,Complete Service,25000
+pu3422t,16 May 2024,1653,puput,"4,3",Complete Service,26000
+ch8619i,17 May 2024,1654,chrisanti,,Complete Service,25000
+ib6182i,17 May 2024,1655,ibu ari,,Complete Service,10000
+la8270a,17 May 2024,1656,layla,,Complete Service,105000
+su2998e,17 May 2024,1657,sule,"12,06",Complete Service Express,96500
+pa3463g,17 May 2024,1658,park ji sung,"4,85",Complete Service,44000
+ra4342a,18 May 2024,1659,rama,"16,01",Complete Service,87000
+la8270a,18 May 2024,1660,layla,"4,89",Complete Service,119000
+he8161o,18 May 2024,1661,hendro,"4,14",Complete Service,24500
+il9754m,19 May 2024,1662,ilham,"7,6",Complete Service,45500
+ro6002d,19 May 2024,1663,ronald,"8,9",Complete Service,53000
+ka6393a,19 May 2024,1664,kalista,"3,41",Complete Service Express,27000
+ri5903a,19 May 2024,1665,rina,"6,04",Complete Service,36000
+di9323a,20 May 2024,1666,dita,"7,44",Complete Service,44500
+ba2680s,20 May 2024,1667,bagas,"6,28",Complete Service Express,50000
+li1111a,20 May 2024,1668,lia,"7,07",Complete Service,56500
+du2602n,22 May 2024,1669,dundun,"6,05",Complete Service,36000
+su2998e,22 May 2024,1670,sule,"8,42",Complete Service,50500
+ro6002d,22 May 2024,1671,ronald,"4,3",Complete Service,26000
+ve9509a,23 May 2024,1672,vera,"3,00",Complete Service,18000
+ra4342a,24 May 2024,1673,rama,"16,77",Complete Service,84000
+la2122a,24 May 2024,1674,lala,"14,93",Complete Service,89500
+en8230n,24 May 2024,1675,entin,"15,27",Complete Service,91500
+pa3463g,24 May 2024,1676,park ji sung,"5,28",Complete Service,32000
+ra6793a,24 May 2024,1677,raisa,"4,23",Complete Service,25000
+du2602n,26 May 2024,1678,dundun,"8,4",Complete Service,50000
+il9754m,26 May 2024,1679,ilham,"9,78",Complete Service,58500
+ya3244i,26 May 2024,1680,yanti,"7,06",Complete Service Express,56500
+ac7510l,26 May 2024,1681,acil,"6,99",Complete Service,42000
+br6682n,27 May 2024,1682,brian,"3,48",Complete Service,21000
+ri5903a,27 May 2024,1683,rina,"3,87",Complete Service,23000
+la8270a,27 May 2024,1684,layla,"3,00",Complete Service,143000
+la2122a,27 May 2024,1685,lala,"15,00",Complete Service,90000
+ro6002d,27 May 2024,1686,ronald,"9,3",Complete Service,56000
+wi6385a,28 May 2024,1687,wita,,Complete Service,70000
+li1111a,31 May 2024,1688,lia,"6,35",Complete Service,50500
+du2602n,31 May 2024,1689,dundun,"7,27",Complete Service,43500
+la8270a,31 May 2024,1690,layla,,Complete Service,45000
+su2998e,31 May 2024,1691,sule,"7,97",Complete Service Express,79000
+pa3463g,31 May 2024,1692,park ji sung,"5,02",Complete Service,30000
+gi8295a,31 May 2024,1693,gita,"3,00",Complete Service,48000
+ra4342a,31 May 2024,1694,rama,"22,54",Complete Service,113000
+en8230n,31 May 2024,1695,entin,"22,54",Complete Service,83000
+ro6002d,31 May 2024,1696,ronald,"8,11",Complete Service,48000
+ka6393a,1 Jun 2024,1697,kalista,"4,3",Complete Service Express,34500
+ri5903a,1 Jun 2024,1698,rina,"8,72",Complete Service,52000
+di9877n,1 Jun 2024,1699,dian,,Complete Service,25000
+is7994l,2 Jun 2024,1700,ismail,"3,00",Complete Service,18000
+il9754m,2 Jun 2024,1701,ilham,"10,72",Complete Service,64000
+ba2680s,3 Jun 2024,1702,bagas,"5,15",Complete Service Express,41500
+ro6002d,6 Jun 2024,1703,ronald,"11,58",Complete Service,69500
+su2998e,7 Jun 2024,1704,sule,"13,2",Complete Service Express,106000
+ra4342a,7 Jun 2024,1705,rama,"16,74",Complete Service,100500
+ra9106a,7 Jun 2024,1706,raisya,"7,64",Complete Service Express,61000
+pa3463g,7 Jun 2024,1707,park ji sung,"5,2",Complete Service,31000
+du2602n,8 Jun 2024,1708,dundun,"10,84",Complete Service,65000
+ra4342a,8 Jun 2024,1709,rama,"7,36",Complete Service,44000
+en8230n,8 Jun 2024,1710,entin,"14,82",Complete Service,89000
+il9754m,9 Jun 2024,1711,ilham,"8,47",Complete Service,51000
+ya3244i,9 Jun 2024,1712,yanti,"10,89",Complete Service,65000
+lu2529i,10 Jun 2024,1713,luwi,"3,15",Complete Service,61000
+ca7951a,11 Jun 2024,1714,calista,"3,28",Complete Service Express,26000
+lu2529i,11 Jun 2024,1715,luwi,,Complete Service,20000
+la8270a,12 Jun 2024,1716,layla,,Complete Service,45000
+ro6002d,12 Jun 2024,1717,ronald,"10,5",Complete Service,63000
+ch8619i,12 Jun 2024,1718,chrisanti,,Complete Service,25000
+ga3682h,12 Jun 2024,1719,galih,"3,00",Complete Service,18000
+an5269s,13 Jun 2024,1720,anis,"3,05",Complete Service,18000
+en8230n,13 Jun 2024,1721,entin,"9,2",Complete Service,55000
+du2602n,14 Jun 2024,1722,dundun,"6,94",Complete Service,41500
+su2998e,14 Jun 2024,1723,sule,"11,33",Complete Service Express,89000
+pa3463g,14 Jun 2024,1724,park ji sung,"6,64",Complete Service,40000
+ac7510l,15 Jun 2024,1725,acil,"6,04",Complete Service,36000
+li1111a,15 Jun 2024,1726,lia,"7,73",Complete Service Express,62000
+az3071h,16 Jun 2024,1727,azizah,"3,74",Complete Service,22500
+is7994l,16 Jun 2024,1728,ismail,"3,5",Complete Service,21500
+ca7951a,16 Jun 2024,1729,calista,"4,00",Complete Service Express,32000
+ra4342a,16 Jun 2024,1730,rama,"20,42",Complete Service,122500
+gi8295a,16 Jun 2024,1731,gita,"3,14",Complete Service,19000
+az3071h,19 Jun 2024,1732,azizah,"3,09",Complete Service,18500
+ro6002d,19 Jun 2024,1733,ronald,"9,46",Complete Service,56500
+la8270a,19 Jun 2024,1734,layla,,Complete Service,100000
+en8230n,20 Jun 2024,1735,entin,"13,05",Complete Service,78000
+la8270a,21 Jun 2024,1736,layla,,Complete Service,15000
+su2998e,21 Jun 2024,1737,sule,"8,7",Complete Service Express,70000
+pa3463g,21 Jun 2024,1738,park ji sung,"3,8",Complete Service,23000
+az3071h,21 Jun 2024,1739,azizah,"3,49",Complete Service,21000
+ra4342a,22 Jun 2024,1740,rama,"25,16",Complete Service,151000
+ro6002d,23 Jun 2024,1741,ronald,"9,4",Complete Service,55000
+il9754m,23 Jun 2024,1742,ilham,"8,2",Complete Service,49000
+az3071h,24 Jun 2024,1743,azizah,"3,58",Complete Service,21500
+ka6393a,25 Jun 2024,1744,kalista,"3,49",Complete Service Express,28000
+az3071h,26 Jun 2024,1745,azizah,"3,5",Complete Service,21000
+du2602n,26 Jun 2024,1746,dundun,"14,34",Complete Service,86000
+ri5903a,27 Jun 2024,1747,rina,"11,35",Complete Service,72000
+az3071h,27 Jun 2024,1748,azizah,"4,29",Complete Service,25500
+su2998e,28 Jun 2024,1749,sule,"9,88",Complete Service Express,80000
+en8230n,28 Jun 2024,1750,entin,"13,97",Complete Service,96000
+pa3463g,28 Jun 2024,1751,park ji sung,"6,46",Complete Service,39000
+ac7510l,28 Jun 2024,1752,acil,"4,79",Complete Service,29000
+gi8295a,28 Jun 2024,1753,gita,"3,16",Complete Service,19000
+an5269s,28 Jun 2024,1754,anis,"5,17",Complete Service,31000
+li1111a,29 Jun 2024,1755,lia,"8,94",Complete Service Express,72000
+ba2680s,29 Jun 2024,1756,bagas,"6,67",Complete Service Express,53000
+ro6002d,29 Jun 2024,1757,ronald,"10,22",,61000
+ra4342a,29 Jun 2024,1758,rama,"14,87",,74000
+il9754m,29 Jun 2024,1759,ilham,"8,00",,48000
+li8706a,29 Jun 2024,1760,lisa,"4,69",,28000
+ca7951a,1 Jul 2024,1761,calista,"4,2",,32000
+la8270a,1 Jul 2024,1762,layla,,,105000
+az3071h,1 Jul 2024,1763,azizah,"4,25",,25500
+ib6182i,2 Jul 2024,1764,ibu ari,,,20000
+lu2529i,2 Jul 2024,1765,luwi,"5,75",,34500
+ri5903a,2 Jul 2024,1766,rina,"9,77",,59000
+ar6054i,2 Jul 2024,1767,arsi,"3,00",,18000
+ro6002d,3 Jul 2024,1768,ronald,"9,64",,57500
+en8230n,3 Jul 2024,1769,entin,"9,02",,54000
+di9877n,4 Jul 2024,1770,dian,,,25000
+ni6922a,4 Jul 2024,1771,nisa,"6,7",,40500
+ib6182i,5 Jul 2024,1772,ibu ari,"3,5",,21000
+fa8532h,5 Jul 2024,1773,fatimah,"11,54",,58000
+su2998e,5 Jul 2024,1774,sule,"14,00",,112000
+pa3463g,5 Jul 2024,1775,park ji sung,"5,6",,48500
+nu8406a,5 Jul 2024,1776,nurlela,"3,9",,27500
+az3071h,5 Jul 2024,1777,azizah,"4,09",,24500
+il9754m,7 Jul 2024,1778,ilham,"10,95",,65500
+ka6393a,7 Jul 2024,1779,kalista,"5,4",,44000
+az3071h,7 Jul 2024,1780,azizah,"3,93",,23500
+ar6054i,8 Jul 2024,1781,arsi,"11,9",,57500
+ve9509a,8 Jul 2024,1782,vera,,,25000
+ro6002d,8 Jul 2024,1783,ronald,"10,29",,61500
+ch8619i,9 Jul 2024,1784,chrisanti,,,25000
+du2602n,9 Jul 2024,1785,dundun,"10,42",,62500
+ra4342a,10 Jul 2024,1786,rama,"28,48",,170500
+la8270a,10 Jul 2024,1787,layla,,,225000
+ka6393a,11 Jul 2024,1788,kalista,"3,2",,26000
+he8161o,11 Jul 2024,1789,hendro,"3,5",,25000
+mo8194c,11 Jul 2024,1790,monic,"8,92",,53500
+en8230n,11 Jul 2024,1791,entin,"14,96",,90000
+az3071h,12 Jul 2024,1792,azizah,"3,00",,18000
+az3071h,12 Jul 2024,1793,azizah,"3,2",,19000
+su2998e,12 Jul 2024,1794,sule,"9,5",,76000
+ac7510l,12 Jul 2024,1795,acil,"6,9",,42000
+gi8295a,12 Jul 2024,1796,gita,"3,58",,21500
+pa3463g,12 Jul 2024,1797,park ji sung,"3,53",,21000
+li1111a,13 Jul 2024,1798,lia,"7,2",,58000
+ra6793a,13 Jul 2024,1799,raisa,"8,38",,67000
+ba2680s,13 Jul 2024,1800,bagas,"6,06",,48500
+ra4342a,13 Jul 2024,1801,rama,"12,5",,75000
+ro6002d,13 Jul 2024,1802,ronald,"11,3",,67000
+is7994l,14 Jul 2024,1803,ismail,"3,00",,18000
+nu8406a,14 Jul 2024,1804,nurlela,"3,00",,21000
+nu8406a,15 Jul 2024,1805,nurlela,"3,00",,21000
+ka6393a,16 Jul 2024,1806,kalista,"5,06",,30000
+do9532i,16 Jul 2024,1807,dodi,"5,2",,31000
+sa6891i,17 Jul 2024,1808,sasti,"3,71",,22000
+si6809.,17 Jul 2024,1809,sisca.,"3,38",,20000
+la8270a,17 Jul 2024,1810,layla,"3,00",,24000
+la8270a,17 Jul 2024,1811,layla,"3,00",,18000
+ni6922a,17 Jul 2024,1812,nisa,"9,2",,55500
+an5269s,17 Jul 2024,1813,anis,"4,00",,24000
+en8230n,17 Jul 2024,1814,entin,"10,1",,61000
+mo8194c,18 Jul 2024,1815,monic,"10,55",,63000
+ro6002d,18 Jul 2024,1816,ronald,"11,4",,68000
+ra4342a,18 Jul 2024,1817,rama,"15,08",,75500
+az3071h,19 Jul 2024,1818,azizah,"3,15",Complete Service,19000
+az3071h,19 Jul 2024,1819,azizah,"3,2",Complete Service,19000
+su2998e,19 Jul 2024,1820,sule,"9,91",Complete Service Express,79500
+pa3463g,19 Jul 2024,1821,park ji sung,"5,15",Complete Service,31000
+ra6793a,19 Jul 2024,1822,raisa,"7,39",Complete Service,44500
+ka6393a,20 Jul 2024,1823,kalista,"5,59",Complete Service Express,44500
+al4720d,20 Jul 2024,1824,alex arnold,"9,71",Complete Service,58000
+ga4992h,21 Jul 2024,1825,galuh,"3,1",Complete Service,18000
+nu8406a,21 Jul 2024,1826,nurlela,"3,25",Ironing Service Express,23000
+az3071h,22 Jul 2024,1827,azizah,"3,7",Complete Service,22000
+du2602n,23 Jul 2024,1828,dundun,"9,9",Complete Service,59500
+ro6002d,24 Jul 2024,1829,ronald,"11,23",Complete Service,67000
+ra4342a,26 Jul 2024,1830,rama,"7,9",Complete Service,47500
+la8270a,26 Jul 2024,1831,layla,"3,00",Complete Service,83000
+ga4992h,26 Jul 2024,1832,galuh,"3,37",Complete Service,20000
+su2998e,26 Jul 2024,1833,sule,"10,57",Complete Service Express,80500
+az3071h,26 Jul 2024,1834,azizah,"3,15",Complete Service,19000
+az3071h,26 Jul 2024,1835,azizah,"3,00",Complete Service,18000
+pa3463g,26 Jul 2024,1836,park ji sung,"4,53",Complete Service,27000
+en8230n,26 Jul 2024,1837,entin,"17,09",Complete Service,102000
+ra6793a,26 Jul 2024,1838,raisa,"7,08",Complete Service Express,56500
+si6809.,27 Jul 2024,1839,sisca.,"4,95",Complete Service,29000
+ib8370a,27 Jul 2024,1840,ibu farida,"5,34",Complete Service,32000
+ac7510l,27 Jul 2024,1841,acil,"4,2",Complete Service Express,34000
+gi8295a,27 Jul 2024,1842,gita,"3,00",Complete Service,18000
+ba2680s,27 Jul 2024,1843,bagas,"3,2",Complete Service Express,41500
+lu2529i,28 Jul 2024,1844,luwi,"5,98",Complete Service,36000
+al4720d,28 Jul 2024,1845,alex arnold,"11,48",Complete Service,69000
+ra4342a,28 Jul 2024,1846,rama,"4,4",Complete Service,26000
+ib3154o,29 Jul 2024,1847,ibu tarjo,"3,71",Complete Service,22000
+li1111a,29 Jul 2024,1848,lia,"6,05",Complete Service Express,48500
+ro6002d,29 Jul 2024,1849,ronald,"7,88",,47000
+la8270a,30 Jul 2024,1850,layla,,,20000
+ka6393a,30 Jul 2024,1851,kalista,"6,45",Complete Service Express,52000
+br6682n,30 Jul 2024,1852,brian,"3,00",,18000
+ay2681u,30 Jul 2024,1853,ayu,"7,2",,43000
+do9532i,31 Jul 2024,1854,dodi,"6,29",,37500
+az3071h,31 Jul 2024,1855,azizah,"4,64",,28000
+en8230n,31 Jul 2024,1856,entin,"9,14",,55000
+ni6922a,1 Aug 2024,1857,nisa,"8,61",Complete Service Express,69000
+ay2681u,2 Aug 2024,1858,ayu,"6,15",Complete Service,37000
+ka6393a,2 Aug 2024,1859,kalista,"4,6",Complete Service Express,37000
+su2998e,2 Aug 2024,1860,sule,"9,72",Complete Service Express,78000
+az3071h,2 Aug 2024,1861,azizah,"3,8",Complete Service,23000
+pa3463g,2 Aug 2024,1862,park ji sung,"4,82",Complete Service,29000
+ra6793a,2 Aug 2024,1863,raisa,"7,24",Complete Service,43000
+ra4342a,2 Aug 2024,1864,rama,"4,08",Complete Service,24000
+ch8619i,3 Aug 2024,1865,chrisanti,,Complete Service,25000
+he8161o,3 Aug 2024,1866,hendro,"4,13",Complete Service Express,33000
+az3071h,3 Aug 2024,1867,azizah,"3,5",Complete Service,21000
+is7994l,4 Aug 2024,1868,ismail,"3,27",Complete Service,20000
+du2602n,4 Aug 2024,1869,dundun,"6,34",Complete Service,38000
+al4720d,4 Aug 2024,1870,alex arnold,"8,24",Complete Service,49000
+ra4342a,4 Aug 2024,1871,rama,"28,81",Complete Service,173000
+nu8406a,5 Aug 2024,1872,nurlela,"3,75",Ironing Service Express,26000
+ka6393a,7 Aug 2024,1873,kalista,"5,33",Complete Service,32000
+az3071h,7 Aug 2024,1874,azizah,"3,54",Complete Service,21000
+su2998e,7 Aug 2024,1875,sule,"7,5",Complete Service Express,60000
+ba2680s,7 Aug 2024,1876,bagas,"4,66",Complete Service Express,37500
+ro6002d,7 Aug 2024,1877,ronald,"15,08",Complete Service,90500
+an5269s,7 Aug 2024,1878,anis,"5,06",Complete Service,30000
+en8230n,7 Aug 2024,1879,entin,"13,29",Complete Service,80000
+do9532i,8 Aug 2024,1880,dodi,"5,03",Complete Service,30000
+su2998e,9 Aug 2024,1881,sule,"6,22",Complete Service Express,50000
+az3071h,9 Aug 2024,1882,azizah,"4,67",Complete Service,28000
+ra4342a,9 Aug 2024,1883,rama,"7,57",Complete Service,45000
+ac7510l,9 Aug 2024,1884,acil,"6,04",Complete Service,36000
+pa3463g,9 Aug 2024,1885,park ji sung,"3,78",Complete Service,23000
+gi8295a,9 Aug 2024,1886,gita,"3,00",Complete Service,18000
+ra6793a,9 Aug 2024,1887,raisa,"9,78",Complete Service,59000
+ka6393a,10 Aug 2024,1888,kalista,"4,00",Complete Service Express,32500
+li1111a,10 Aug 2024,1889,lia,"6,37",Complete Service Express,51000
+is7994l,11 Aug 2024,1890,ismail,"3,37",Complete Service,20000
+al4720d,11 Aug 2024,1891,alex arnold,"7,4",Complete Service,47000
+nu8406a,12 Aug 2024,1892,nurlela,"3,78",Complete Service,26500
+ro6002d,12 Aug 2024,1893,ronald,"9,4",Complete Service,56000
+du2602n,13 Aug 2024,1894,dundun,"4,63",Complete Service,27500
+ci9552a,14 Aug 2024,1895,citra,"7,85",Complete Service,47000
+az3071h,14 Aug 2024,1896,azizah,"3,12",Complete Service,18500
+az13932,14 Aug 2024,1897,azizah 2,"3,2",Complete Service,19000
+en8230n,14 Aug 2024,1898,entin,"12,8",Complete Service,77000
+ka6393a,15 Aug 2024,1899,kalista,"5,28",,42000
+ka6393a,15 Aug 2024,1900,kalista,,,50000
+az3071h,16 Aug 2024,1901,azizah,"4,36",Complete Service,26000
+du2602n,16 Aug 2024,1902,dundun,"3,88",Complete Service,23000
+pa3463g,16 Aug 2024,1903,park ji sung,"5,25",Complete Service,32000
+ro6002d,16 Aug 2024,1904,ronald,"8,86",Complete Service,53000
+ra4342a,17 Aug 2024,1905,rama,"26,96",Complete Service,162000
+ba2680s,18 Aug 2024,1906,bagas,"5,8",Complete Service Express,47000
+pu3422t,18 Aug 2024,1907,puput,"3,02",Complete Service,18000
+al4720d,18 Aug 2024,1908,alex arnold,"13,13",Complete Service,78000
+ar6054i,19 Aug 2024,1909,arsi,"14,53",Complete Service,87000
+du2602n,20 Aug 2024,1910,dundun,"3,88",,23000
+az3071h,20 Aug 2024,1911,azizah,"3,32",Complete Service,20000
+ro6002d,20 Aug 2024,1912,ronald,"7,89",Complete Service,47000
+en8230n,22 Aug 2024,1913,entin,,Complete Service,89000
+la8270a,23 Aug 2024,1914,layla,,Complete Service,95000
+pa3463g,23 Aug 2024,1915,park ji sung,"3,04",Complete Service,18500
+gi8295a,23 Aug 2024,1916,gita,"3,61",Complete Service,22000
+ra6793a,23 Aug 2024,1917,raisa,"3,47",Complete Service,21000
+az3071h,23 Aug 2024,1918,azizah,"4,39",Complete Service,26000
+ra4342a,23 Aug 2024,1919,rama,"11,54",Complete Service,69000
+da5478a,23 Aug 2024,1920,dafa,"3,00",Complete Service,18000
+ra4342a,24 Aug 2024,1921,rama,"13,45",Complete Service,70000
+ka6393a,24 Aug 2024,1922,kalista,"10,18",Complete Service Express,81000
+lu2529i,25 Aug 2024,1923,luwi,,Complete Service,20000
+li8706a,25 Aug 2024,1924,lisa,"4,15",Complete Service,25000
+li1111a,25 Aug 2024,1925,lia,"7,16",Complete Service Express,57000
+al4720d,25 Aug 2024,1926,alex arnold,"6,15",Complete Service,37000
+da3276t,26 Aug 2024,1927,dayat,"4,00",Complete Service,24000
+la8270a,26 Aug 2024,1928,layla,,Complete Service,205000
+du2602n,26 Aug 2024,1929,dundun,"4,14",Complete Service,25000
+nu8406a,26 Aug 2024,1930,nurlela,"5,2",Ironing Service Express,37000
+az3071h,28 Aug 2024,1931,azizah,"3,68",Complete Service,22000
+ga4992h,28 Aug 2024,1932,galuh,"5,4",Complete Service,32000
+ro6002d,28 Aug 2024,1933,ronald,"13,02",Complete Service,78000
+ac7510l,29 Aug 2024,1934,acil,"6,68",Complete Service,40000
+en8230n,29 Aug 2024,1935,entin,"13,49",Complete Service,81000
+az3071h,30 Aug 2024,1936,azizah,"4,36",Complete Service,26000
+az3071h,30 Aug 2024,1937,azizah,"3,4",Complete Service,21000
+ra6793a,30 Aug 2024,1938,raisa,"4,3",Complete Service,26000
+pa3463g,30 Aug 2024,,park ji sung,"5,8",Complete Service,35000
+ba2680s,30 Aug 2024,,bagas,"5,8",Complete Service,50000
+ra4342a,30 Aug 2024,1940,rama,"6,24",Complete Service Express,52000
+ka6393a,30 Aug 2024,1941,kalista,"8,69",Complete Service,56500
+ro6002d,31 Aug 2024,1942,ronald,"7,06",Complete Service Express,43000
+ad6263t,31 Aug 2024,1943,adit,"7,18",Complete Service,23000
+is7994l,31 Aug 2024,1944,ismail,"3,00",Complete Service Express,18000
+al4720d,1 Sep 2024,1945,alex arnold,"10,79",Complete Service,65000
+du2602n,2 Sep 2024,1946,dundun,"3,25",Complete Service Express,26000
+li1111a,2 Sep 2024,1947,lia,"3,00",Complete Service Express,24000
+nu8406a,2 Sep 2024,1948,nurlela,"4,49",Ironing Service Express,31000
+ib6182i,3 Sep 2024,1949,ibu ari,"3,64",Complete Service,22000
+ro6002d,3 Sep 2024,1950,ronald,"9,49",Complete Service,57000
+az3071h,4 Sep 2024,1951,azizah,"3,37",Complete Service,20000
+ka6393a,5 Sep 2024,1952,kalista,"6,83",Complete Service Express,55000
+en8230n,5 Sep 2024,1953,entin,"13,71",Complete Service,82000
+ra4342a,6 Sep 2024,1954,rama,"28,42",Complete Service,170500
+ra6793a,6 Sep 2024,1955,raisa,"6,44",Complete Service,39000
+pa3463g,6 Sep 2024,1956,park ji sung,"3,52",Complete Service,21000
+gi8295a,6 Sep 2024,1957,gita,"3,00",Complete Service,18000
+ad6263t,6 Sep 2024,1958,adit,"3,00",Complete Service,18000
+az3071h,6 Sep 2024,1959,azizah,"4,32",Complete Service,26000
+nu8406a,8 Sep 2024,1960,nurlela,"3,2",Ironing Service Express,22500
+il9754m,8 Sep 2024,1961,ilham,"8,18",Complete Service,49000
+az3071h,8 Sep 2024,1962,azizah,"3,64",Complete Service,22000
+ra4342a,8 Sep 2024,1963,rama,"3,78",Complete Service,23000
+du2602n,9 Sep 2024,1964,dundun,"4,23",Complete Service,25000
+ro6002d,9 Sep 2024,1965,ronald,"11,66",Complete Service,70000
+ri5903a,11 Sep 2024,1966,rina,"5,78",Complete Service,35000
+wi6385a,11 Sep 2024,1967,wita,,Complete Service,80000
+ga4992h,11 Sep 2024,1968,galuh,"4,22",Complete Service,25000
+ba2680s,12 Sep 2024,1969,bagas,"5,95",Complete Service Express,47500
+ac7510l,12 Sep 2024,1970,acil,"6,95",Complete Service,42000
+en8230n,12 Sep 2024,1971,entin,"13,23",Complete Service,79000
+ra4342a,12 Sep 2024,1972,rama,"6,78",Complete Service,41000
+ra6793a,13 Sep 2024,1973,raisa,"5,48",Complete Service,33000
+pa3463g,13 Sep 2024,1974,park ji sung,"4,43",Complete Service,27000
+az3071h,13 Sep 2024,1975,azizah,"4,65",Complete Service,28000
+nu8406a,14 Sep 2024,1976,nurlela,"4,43",Complete Service,31000
+az3071h,15 Sep 2024,1977,azizah,"3,51",Complete Service,21000
+ro6002d,15 Sep 2024,1978,ronald,"11,47",Complete Service,69000
+nu8406a,15 Sep 2024,1979,nurlela,"8,00",Complete Service,40000
+la8270a,16 Sep 2024,1980,layla,"5,42",Complete Service,32500
+ar6054i,16 Sep 2024,1981,arsi,"10,1",Complete Service,61000
+al4720d,16 Sep 2024,1982,alex arnold,"9,88",Complete Service,94000
+ra4342a,16 Sep 2024,1983,rama,"21,42",Complete Service,128500
+du2602n,16 Sep 2024,1984,dundun,"4,00",Complete Service,24000
+az3071h,19 Sep 2024,1985,azizah,"3,52",Complete Service,21000
+la8270a,19 Sep 2024,1986,layla,,Complete Service,60000
+ro6002d,19 Sep 2024,1987,ronald,"9,22",Complete Service,55000
+ha2925r,20 Sep 2024,1988,haji mansoor,,Complete Service,25000
+en8230n,20 Sep 2024,1989,entin,"13,56",Complete Service,81000
+ka6393a,20 Sep 2024,1990,kalista,"4,39",Complete Service Express,35000
+pa3463g,20 Sep 2024,1991,park ji sung,"3,23",Complete Service,19000
+az3071h,20 Sep 2024,1992,azizah,"4,22",Complete Service,25000
+ra6793a,20 Sep 2024,1993,raisa,"7,54",Complete Service,45000
+ra4342a,21 Sep 2024,1994,rama,"13,08",Complete Service,65000
+li1111a,21 Sep 2024,1995,lia,"7,05",Complete Service Express,56000
+br6682n,22 Sep 2024,1996,brian,"7,6",Complete Service,46000
+gi8295a,22 Sep 2024,1997,gita,"3,58",Complete Service,21500
+al4720d,22 Sep 2024,1998,alex arnold,"7,33",Complete Service,44000
+he8161o,23 Sep 2024,1999,hendro,"4,8",Complete Service,29000
+du2602n,23 Sep 2024,2001,dundun,"5,32",Complete Service,32000
+ro6002d,24 Sep 2024,2002,ronald,"10,08",Complete Service,60500
+ba2680s,25 Sep 2024,2003,bagas,"7,1",Complete Service Express,57000
+ka6393a,26 Sep 2024,2004,kalista,"9,56",Complete Service Express,76500
+ic5626a,26 Sep 2024,2005,ica,"3,00",Complete Service,18000
+li8706a,26 Sep 2024,2006,lisa,"3,4",Complete Service,21000
+du2602n,26 Sep 2024,2007,dundun,"3,04",Complete Service,18000
+en8230n,26 Sep 2024,2008,entin,"14,4",Complete Service,86500
+pa3463g,27 Sep 2024,2009,park ji sung,"5,28",Complete Service,32000
+az3071h,27 Sep 2024,2010,azizah,"4,05",Complete Service,24000
+ra6793a,27 Sep 2024,2011,raisa,"7,92",Complete Service,47500
+nu8406a,27 Sep 2024,2012,nurlela,"3,8",Complete Service,23000
+ra4342a,27 Sep 2024,2013,rama,"23,63",Complete Service,118000
+ci9552a,27 Sep 2024,2014,citra,"5,23",Complete Service Express,42000
+lu6796i,27 Sep 2024,2015,luthfi,"3,00",Complete Service Express,24000
+ka6393a,28 Sep 2024,2016,kalista,"4,66",Complete Service Express,37000
+ro6002d,28 Sep 2024,2017,ronald,"8,51",Complete Service,51000
+al4720d,29 Sep 2024,2018,alex arnold,"7,27",Complete Service,44000
+nu8406a,29 Sep 2024,2019,nurlela,"4,09",Ironing Service Express,29000
+ac7510l,30 Sep 2024,2020,acil,"5,96",Complete Service,36000
+ad6263t,30 Sep 2024,2021,adit,"4,25",Complete Service,26000
+az3071h,30 Sep 2024,2022,azizah,"3,21",Complete Service,19000
+du2602n,1 Oct 2024,2023,dundun,"3,86",Complete Service,23000
+is7994l,1 Oct 2024,2024,ismail,"3,5",Complete Service,21000
+li1111a,1 Oct 2024,2025,lia,"5,95",Complete Service Express,48000
+pu3422t,2 Oct 2024,2026,puput,"3,2",Complete Service,19000
+mo8194c,2 Oct 2024,2027,monic,"6,45",Complete Service,39000
+mo8194c,3 Oct 2024,2028,monic,"3,22",Complete Service,19000
+az3071h,3 Oct 2024,2029,azizah,"3,21",Complete Service,19000
+ro6002d,3 Oct 2024,2030,ronald,"10,14",Complete Service,61000
+ya7713a,4 Oct 2024,2031,yana,"4,79",Complete Service,29000
+az3071h,4 Oct 2024,2032,azizah,"3,54",Complete Service,21000
+pa3463g,4 Oct 2024,2033,park ji sung,"3,9",Complete Service,23000
+ka6393a,4 Oct 2024,2034,kalista,"6,94",Complete Service Express,55500
+en8230n,4 Oct 2024,2035,entin,"15,04",Complete Service,90000
+ga4992h,5 Oct 2024,2036,galuh,"6,84",Complete Service,41000
+ra4342a,5 Oct 2024,2037,rama,"23,67",Complete Service,142000
+ci9552a,5 Oct 2024,2038,citra,"7,36",Complete Service,44000
+la8270a,5 Oct 2024,2039,layla,,Complete Service,60000
+ra6793a,5 Oct 2024,2040,raisa,"7,5",Complete Service Express,60000
+lu6796i,5 Oct 2024,2041,luthfi,"4,00",Complete Service Express,32000
+al5901t,6 Oct 2024,2042,aljunot,"8,66",Complete Service,52000
+di4996a,6 Oct 2024,2043,dina,"39,4",Ironing Service Express,276000
+al4720d,6 Oct 2024,2044,alex arnold,"9,76",Complete Service,58500
+du2602n,7 Oct 2024,2045,dundun,"4,77",Complete Service,29000
+az3071h,9 Oct 2024,2046,azizah,"4,00",Complete Service,24000
+ka6393a,9 Oct 2024,2047,kalista,"8,23",Complete Service,66000
+ro6002d,9 Oct 2024,2048,ronald,"10,8",Complete Service,65000
+pa3463g,9 Oct 2024,2049,park ji sung,"3,00",Complete Service,18000
+ra6793a,9 Oct 2024,2050,raisa,"4,5",Complete Service,27000
+en8230n,10 Oct 2024,2051,entin,"11,88",Complete Service,71000
+ba2680s,11 Oct 2024,2052,bagas,"5,32",Complete Service,33000
+az3071h,11 Oct 2024,2053,azizah,"5,22",Complete Service,31500
+ci9552a,11 Oct 2024,2054,citra,"6,00",Complete Service,36000
+lu6796i,11 Oct 2024,2055,luthfi,"3,26",Complete Service,19500
+ra4342a,11 Oct 2024,2056,rama,"23,87",Complete Service,144000
+ra6793a,11 Oct 2024,2057,raisa,"7,3",Complete Service,44000
+nu8406a,12 Oct 2024,2058,nurlela,"5,9",Ironing Service Express,41000
+nu8406a,12 Oct 2024,2059,nurlela,"3,39",Ironing Service,17000
+gi8295a,13 Oct 2024,2060,gita,"4,32",Complete Service,26000
+pa3463g,13 Oct 2024,2061,park ji sung,"3,00",Complete Service,18000
+al4720d,13 Oct 2024,2062,alex arnold,"7,34",Complete Service,44000
+ha2925r,13 Oct 2024,2063,haji mansoor,,Complete Service,25000
+ad6263t,13 Oct 2024,2064,adit,"3,4",Complete Service Express,27000
+ro6002d,13 Oct 2024,2065,ronald,"7,57",Complete Service,45000
+az3071h,13 Oct 2024,2066,azizah,"3,3",Complete Service,20000
+li1111a,14 Oct 2024,2067,lia,"7,5",Complete Service Express,63500
+du2602n,14 Oct 2024,2068,dundun,"5,6",Complete Service Express,45000
+az3071h,16 Oct 2024,2069,azizah,"3,5",Complete Service,21000
+ha2925r,16 Oct 2024,2070,haji mansoor,,Complete Service,25000
+ib6182i,17 Oct 2024,2071,ibu ari,"3,87",Complete Service,23000
+ka6393a,17 Oct 2024,2072,kalista,"6,91",Complete Service Express,55000
+ro6002d,17 Oct 2024,2073,ronald,"10,37",Complete Service,62000
+ka6393a,18 Oct 2024,2074,kalista,"3,07",Complete Service Express,25000
+ra6793a,18 Oct 2024,2075,raisa,"7,31",Complete Service,44000
+pa3463g,18 Oct 2024,2076,park ji sung,"3,96",Complete Service,24000
+az3071h,18 Oct 2024,2077,azizah,"4,98",Complete Service,30000
+ra4342a,18 Oct 2024,2078,rama,"10,16",Complete Service,61000
+en8230n,18 Oct 2024,2079,entin,"15,63",Complete Service,94000
+ga4992h,19 Oct 2024,2080,galuh,"4,33",Complete Service,26000
+lu6796i,19 Oct 2024,2081,luthfi,"3,91",Complete Service,23000
+ci9552a,19 Oct 2024,2082,citra,"6,74",Complete Service,40000
+ra4342a,19 Oct 2024,2083,rama,"19,49",Complete Service,117000
+du2602n,20 Oct 2024,2084,dundun,"3,26",Complete Service,26000
+nu8406a,20 Oct 2024,2085,nurlela,"3,12",Complete Service,22000
+al4720d,20 Oct 2024,2086,alex arnold,"11,23",Complete Service,67500
+he8161o,20 Oct 2024,2087,hendro,"4,33",Complete Service,26000
+ba2680s,23 Oct 2024,2088,bagas,"6,26",Complete Service Express,50000
+du2602n,23 Oct 2024,2089,dundun,"5,15",Complete Service,31000
+az3071h,23 Oct 2024,2090,azizah,"3,48",Complete Service,21000
+ro6002d,23 Oct 2024,2091,ronald,"10,95",Complete Service,66000
+ci9552a,24 Oct 2024,2092,citra,"3,00",Complete Service,18000
+ac7510l,24 Oct 2024,2093,acil,"5,23",Complete Service,31000
+en8230n,24 Oct 2024,2094,entin,"13,39",Complete Service,80000
+ka6393a,25 Oct 2024,2095,kalista,"9,73",Complete Service Express,78000
+pa3463g,25 Oct 2024,2096,park ji sung,"4,66",Complete Service,28000
+ra6793a,25 Oct 2024,2097,raisa,"6,93",Complete Service,42000
+az3071h,25 Oct 2024,2098,azizah,"4,7",Complete Service,28000
+ra4342a,26 Oct 2024,2099,rama,"7,26",Complete Service,43000
+ru7901y,27 Oct 2024,2100,rully,"6,88",Complete Service,41000
+ra4342a,27 Oct 2024,2101,rama,"15,83",Complete Service,79000
+du2602n,27 Oct 2024,2102,dundun,"4,07",Complete Service,24000
+az3071h,27 Oct 2024,2103,azizah,"3,76",Complete Service,23000
+al4720d,27 Oct 2024,2104,alex arnold,"7,62",Complete Service,46000
+ro6002d,28 Oct 2024,2105,ronald,"7,97",Complete Service,48000
+ad6263t,29 Oct 2024,2106,adit,"4,26",Complete Service,26000
+ci9552a,29 Oct 2024,2107,citra,"5,16",Complete Service,31000
+ok9057a,29 Oct 2024,2108,okta,"9,01",Complete Service,45000
+ok9057a,29 Oct 2024,2109,okta,"3,01",Complete Service,15000
+mo8194c,29 Oct 2024,2110,monic,"5,52",Complete Service,33000
+en8230n,29 Oct 2024,2111,entin,"10,7",Complete Service,64000
+lu2529i,30 Oct 2024,2112,luwi,,Complete Service,20000
+ka6393a,30 Oct 2024,2113,kalista,"6,95",Complete Service Express,56000
+gi8295a,30 Oct 2024,2114,gita,"3,35",Complete Service,20000
+az3071h,30 Oct 2024,2115,azizah,"3,33",Complete Service,20000
+du2602n,30 Oct 2024,2116,dundun,"3,38",Complete Service,20000
+ka6393a,1 Nov 2024,2117,kalista,"4,41",Complete Service,26000
+ro6002d,1 Nov 2024,2118,ronald,"9,17",Complete Service,55000
+pa3463g,1 Nov 2024,2119,park ji sung,"3,76",Complete Service,23000
+az3071h,1 Nov 2024,2120,azizah,"4,5",Complete Service,27000
+ra6793a,1 Nov 2024,2121,raisa,"7,15",Complete Service,43000
+al1337a,1 Nov 2024,2122,altika,"3,73",Complete Service,22000
+ra4342a,2 Nov 2024,2123,rama,"10,07",Complete Service,60000
+ok9057a,2 Nov 2024,2124,okta,"7,17",Complete Service,43000
+ok9057a,2 Nov 2024,2125,okta,"6,69",Complete Service Express,54000
+az3071h,3 Nov 2024,2126,azizah,"3,29",Complete Service,20000
+al4720d,3 Nov 2024,2127,alex arnold,"6,37",Complete Service,38000
+li1111a,4 Nov 2024,2128,lia,"9,99",Complete Service Express,80000
+lu6796i,4 Nov 2024,2129,luthfi,"4,9",Complete Service Express,40000
+ra4342a,4 Nov 2024,2130,rama,"16,54",Complete Service,99000
+du2602n,5 Nov 2024,2131,dundun,"3,15",Complete Service,19000
+ka6393a,5 Nov 2024,2132,kalista,"5,5",Complete Service Express,42000
+is7994l,5 Nov 2024,2133,ismail,"3,48",Complete Service,21000
+pu3422t,6 Nov 2024,2134,puput,"3,00",Complete Service,18000
+ba2680s,6 Nov 2024,2135,bagas,"6,14",Complete Service Express,49000
+ci9552a,6 Nov 2024,2136,citra,"5,36",Complete Service,32000
+ro6002d,6 Nov 2024,2137,ronald,"8,71",Complete Service,52000
+en8230n,6 Nov 2024,2138,entin,"16,99",Complete Service,102000
+du2602n,7 Nov 2024,2139,dundun,"3,00",Complete Service,18000
+ka6393a,8 Nov 2024,2140,kalista,"5,57",Complete Service Express,44500
+az3071h,8 Nov 2024,2141,azizah,"4,53",Complete Service,27000
+az3071h,8 Nov 2024,2142,azizah,"3,53",Complete Service,21000
+ra6793a,8 Nov 2024,2143,raisa,"8,18",Complete Service,49000
+pa3463g,8 Nov 2024,2144,park ji sung,"4,67",Complete Service,28000
+ac7510l,8 Nov 2024,2145,acil,"7,26",Complete Service,44000
+ra4342a,8 Nov 2024,2146,rama,"15,69",Complete Service,94000
+ar6054i,9 Nov 2024,2147,arsi,"8,42",Complete Service,50500
+ib6182i,9 Nov 2024,2148,ibu ari,,Complete Service,20000
+al4720d,9 Nov 2024,2149,alex arnold,"3,00",Complete Service Express,24000
+al4720d,9 Nov 2024,2150,alex arnold,"3,74",Complete Service,22000
+ru7901y,10 Nov 2024,2151,rully,"3,00",Complete Service,18000
+ru7901y,11 Nov 2024,2152,rully,,Complete Service,30000
+ib6182i,12 Nov 2024,2153,ibu ari,"3,05",Complete Service,18500
+is7994l,12 Nov 2024,2154,ismail,"3,35",Complete Service,20000
+ka6393a,12 Nov 2024,2155,kalista,"6,43",Complete Service Express,111000
+ra6793a,12 Nov 2024,2156,raisa,"4,6",Complete Service,28000
+du2602n,12 Nov 2024,2157,dundun,"3,07",Complete Service Express,24500
+ro6002d,12 Nov 2024,2158,ronald,"11,39",Complete Service,68000
+az3071h,12 Nov 2024,2159,azizah,"3,2",Complete Service,19000
+en8230n,12 Nov 2024,2160,entin,"12,73",Complete Service,76000
+ra6793a,13 Nov 2024,2161,raisa,"3,7",Complete Service,22000
+az3071h,15 Nov 2024,2162,azizah,"5,01",Complete Service,30000
+ra6793a,15 Nov 2024,2163,raisa,"8,87",Complete Service,53000
+ok9057a,15 Nov 2024,2164,okta,"9,35",Complete Service,56000
+pa3463g,16 Nov 2024,2165,park ji sung,"4,48",Complete Service,27000
+ra4342a,16 Nov 2024,2166,rama,"25,44",Complete Service,152500
+lu6796i,16 Nov 2024,2167,luthfi,"4,52",Complete Service,27000
+li1111a,16 Nov 2024,2168,lia,"6,8",Complete Service Express,54000
+ba2680s,16 Nov 2024,2169,bagas,"6,18",Complete Service Express,49000
+az3071h,16 Nov 2024,2170,azizah,"3,52",Complete Service,21000
+ro6002d,16 Nov 2024,2171,ronald,"9,06",Complete Service,54000
+ru7901y,17 Nov 2024,2172,rully,"5,28",Complete Service,32000
+pa9868i,17 Nov 2024,2173,pak robi,"5,4",Complete Service Express,38000
+al4720d,17 Nov 2024,2174,alex arnold,"4,47",Complete Service,27000
+gi8295a,17 Nov 2024,2175,gita,"3,00",Complete Service,18000
+du2602n,18 Nov 2024,2176,dundun,"5,57",Complete Service,33000
+an8577a,19 Nov 2024,2177,anita,,Complete Service,25000
+pa9868i,19 Nov 2024,2178,pak robi,"3,5",Complete Service Express,25000
+en8230n,19 Nov 2024,2179,entin,"14,71",Complete Service,88000
+ro6002d,20 Nov 2024,2180,ronald,"8,33",Complete Service,50000
+ga4992h,20 Nov 2024,2181,galuh,"6,2",Complete Service,37000
+nu8406a,20 Nov 2024,2182,nurlela,"5,79",Complete Service,35000
+du2602n,21 Nov 2024,2183,dundun,"3,57",Complete Service,21000
+az3071h,22 Nov 2024,2184,azizah,"3,9",Complete Service,24000
+az3071h,22 Nov 2024,2185,azizah,"5,16",Complete Service,31000
+ok9057a,22 Nov 2024,2186,okta,"3,19",Complete Service,19000
+nu8406a,22 Nov 2024,2187,nurlela,"7,43",Complete Service,37000
+pa3463g,22 Nov 2024,2188,park ji sung,"3,84",Complete Service,23000
+ru7901y,22 Nov 2024,2189,rully,,Complete Service,10000
+ra6793a,22 Nov 2024,2190,raisa,"8,83",Complete Service,53000
+ra4342a,22 Nov 2024,2191,rama,"22,00",Complete Service,110000
+he8161o,23 Nov 2024,2192,hendro,"4,49",Complete Service,27000
+ka6393a,23 Nov 2024,2193,kalista,"11,06",Complete Service Express,88500
+ru8656i,23 Nov 2024,2194,rusmi,"3,98",Complete Service,24000
+al4720d,24 Nov 2024,2195,alex arnold,"4,69",Complete Service,28000
+li1111a,25 Nov 2024,2196,lia,"6,15",Complete Service Express,53000
+ri5903a,25 Nov 2024,2197,rina,"9,1",Complete Service,55000
+du2602n,25 Nov 2024,2198,dundun,"3,19",Complete Service,19000
+ro6002d,25 Nov 2024,2199,ronald,"10,92",Complete Service,65500
+pu3422t,26 Nov 2024,2200,puput,"4,28",Complete Service,26000
+en8230n,26 Nov 2024,2201,entin,"14,47",Complete Service,85000
+lu6796i,27 Nov 2024,2202,luthfi,"5,1",Complete Service,31000
+az3071h,28 Nov 2024,2203,azizah,"3,81",Complete Service,23000
+du2602n,28 Nov 2024,2204,dundun,"3,00",Complete Service,18000
+is7994l,29 Nov 2024,2205,ismail,"3,00",Complete Service,18000
+ka6393a,29 Nov 2024,2206,kalista,"11,25",Complete Service Express,90000
+pa3463g,29 Nov 2024,2207,park ji sung,"4,23",Complete Service,25000
+az3071h,29 Nov 2024,2208,azizah,"3,26",Complete Service,19500
+ra6793a,29 Nov 2024,2209,raisa,"10,09",Complete Service,60500
+ra4342a,29 Nov 2024,2210,rama,"7,51",Complete Service,45000
+ac7510l,30 Nov 2024,2211,acil,"6,27",Complete Service,38000
+ba2680s,30 Nov 2024,2212,bagas,"6,24",Complete Service Express,50000
+an8577a,30 Nov 2024,2213,anita,,Complete Service,45000
+az3071h,1 Dec 2024,2214,azizah,"3,72",Complete Service,22000
+nu8406a,1 Dec 2024,2215,nurlela,"9,52",Complete Service,57000
+al1337a,1 Dec 2024,2216,altika,"4,05",Complete Service,24000
+ra6793a,2 Dec 2024,2217,raisa,"7,7",Complete Service,46000
+en8230n,2 Dec 2024,2218,entin,"12,04",Complete Service,92000
+ro6002d,3 Dec 2024,2219,ronald,"12,96",Complete Service,78000
+ra4342a,4 Dec 2024,2220,rama,"22,42",Complete Service,135000
+az3071h,4 Dec 2024,2221,azizah,"3,53",Complete Service,21000
+#N/A,5 Dec 2024,2222,,,,0
+mo1460c,5 Dec 2024,2223,monnic,"4,48",Complete Service,27000
+az3071h,6 Dec 2024,2224,azizah,"3,85",Complete Service,23000
+ra6793a,6 Dec 2024,2225,raisa,"8,15",Complete Service,49000
+pa3463g,6 Dec 2024,2226,park ji sung,"4,27",Complete Service,26000
+gi8295a,6 Dec 2024,2227,gita,"4,13",Complete Service,25000
+ro6002d,6 Dec 2024,2228,ronald,"6,74",Complete Service,40000
+ar6054i,7 Dec 2024,2229,arsi,"8,4",Complete Service,50000
+lu3938i,7 Dec 2024,2230,lutfi,"4,1",Complete Service,25000
+ra4342a,7 Dec 2024,2231,rama,"10,69",Complete Service,64000
+az3071h,9 Dec 2024,2232,azizah,"3,95",Complete Service,24000
+du2602n,9 Dec 2024,2233,dundun,"3,89",Complete Service,23000
+en8230n,9 Dec 2024,2234,entin,"13,76",Complete Service,83000
+du2602n,10 Dec 2024,2235,dundun,"4,03",Complete Service,24000
+pu3422t,10 Dec 2024,2236,puput,"3,00",Complete Service,68000
+al1337a,10 Dec 2024,2237,altika,"3,00",Complete Service,18000
+ra4342a,10 Dec 2024,2238,rama,"11,41",Complete Service,68500
+ba2680s,10 Dec 2024,2239,bagas,"5,46",Complete Service Express,44000
+ro6002d,10 Dec 2024,2240,ronald,"11,00",Complete Service,66000
+li1111a,11 Dec 2024,2241,lia,"9,39",Complete Service Express,75000
+lu3938i,12 Dec 2024,2242,lutfi,"3,00",Complete Service,18000
+is7994l,13 Dec 2024,2243,ismail,"3,00",Complete Service,18000
+az3071h,13 Dec 2024,2244,azizah,"3,14",Complete Service,19000
+ra6793a,13 Dec 2024,2245,raisa,"10,00",Complete Service,60000
+pa3463g,13 Dec 2024,2246,park ji sung,"5,46",Complete Service,33000
+ac7510l,14 Dec 2024,2247,acil,"7,37",Complete Service,44000
+ka6393a,14 Dec 2024,2248,kalista,"8,9",Complete Service Express,71000
+lu3938i,14 Dec 2024,2249,lutfi,"3,00",Complete Service,24000
+ra4342a,14 Dec 2024,2250,rama,"13,6",Complete Service,82000
+ok9057a,14 Dec 2024,2251,okta,"14,99",Complete Service,90000
+du2602n,16 Dec 2024,2252,dundun,"5,6",Complete Service,34000
+ib6182i,16 Dec 2024,2253,ibu ari,"4,63",Complete Service,28000
+en8230n,16 Dec 2024,2254,entin,"12,16",Complete Service,73000
+ro6002d,16 Dec 2024,2255,ronald,"11,77",Complete Service,71000
+az3071h,17 Dec 2024,2256,azizah,"3,37",Complete Service,20500
+ka6393a,19 Dec 2024,2257,kalista,"9,00",Complete Service Express,72000
+ba2680s,20 Dec 2024,2258,bagas,"5,8",Complete Service,35000
+pa9868i,20 Dec 2024,2259,pak robi,"6,19",Complete Service,37000
+pa3463g,20 Dec 2024,2260,park ji sung,"4,04",Complete Service,24000
+ra6793a,20 Dec 2024,2261,raisa,"8,08",Complete Service,49000
+ra4342a,21 Dec 2024,2262,rama,"20,25",Complete Service,102000
+az3071h,21 Dec 2024,2263,azizah,"3,1",Complete Service,19000
+en8230n,21 Dec 2024,2264,entin,"11,92",Complete Service,72000
+ro6002d,22 Dec 2024,2265,ronald,"9,23",Complete Service,55000
+az3071h,23 Dec 2024,2266,azizah,"3,15",Complete Service,19000
+ka6393a,24 Dec 2024,2267,kalista,"5,2",Complete Service Express,47000
+du2602n,24 Dec 2024,2268,dundun,"7,06",Complete Service,42500
+is7994l,25 Dec 2024,2269,ismail,"3,46",Complete Service,21000
+gi8295a,25 Dec 2024,2270,gita,"4,04",Complete Service,24000
+ro6002d,26 Dec 2024,2271,ronald,"9,38",Complete Service,56000
+pa3463g,27 Dec 2024,2272,park ji sung,"3,84",Complete Service,23000
+ra4342a,29 Dec 2024,2273,rama,"16,4",Complete Service,98000
+ac7510l,29 Dec 2024,2274,acil,"6,69",Complete Service,40000
+en8230n,29 Dec 2024,2275,entin,"14,97",Complete Service,90000
+az3071h,30 Dec 2024,2276,azizah,"3,77",Complete Service,22500
+li1111a,30 Dec 2024,2277,lia,"6,73",Complete Service,59000
+li1111a,30 Dec 2024,2278,lia,"3,18",Complete Service,25000
+ra6793a,30 Dec 2024,2279,raisa,"7,89",Complete Service,47000
+ok9057a,30 Dec 2024,2280,okta,"3,51",Complete Service,21000
+ro6002d,31 Dec 2024,2281,ronald,"8,82",Complete Service,53000
